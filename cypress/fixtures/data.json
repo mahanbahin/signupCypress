@@ -1,0 +1,14 @@
+{
+    "FirstName" : "Maha",
+    "LastName" : "Elnbaheen",
+    "Address" : "Gaza Strip",
+    "City" : "Dair Elbalah",
+    "State" : "Burij Camp",
+    "ZipCode" : "123456",
+    "PhoneNumber" : "123456789",
+    "SSN" : "15984",
+    "UserName" : "Maha41",
+    "Password" : "13579",
+    "ConfirmPassword" : "13579",
+    "SignupHeader" : "Maha41"
+}
